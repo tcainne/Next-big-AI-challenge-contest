@@ -5,6 +5,38 @@ All you need to know to participate and win !
 
 # Try it with a ready to use PHP script
 
+You need a command line PHP binaries 
+
+Download Runner.php and DonkeyAI.php here :
+
+Get your API Key here :https://github.com/tcainne/Next-big-AI-challenge-contest/blob/master/README.md#how-to-get-your-api-key
+
+Open with an editor Runner.php
+
+Search $apikey='XXXXXXXXXX', and replace XXXXXXXXXX with your API Key.
+
+Simply run : "/usr/bin/php ./Runner.php"
+
+Runner.php have some options. To use an option "/usr/bin/php ./Runner.php --debug=1 --maxaitime=20"
+
+
+Options list :
+
+- debug (Default: 0 . Debug information level from 0 to 3)
+
+- ai (Default: donkey .Choose an AI. Right now only "donkey" is available. A more intelligent one will come soon.)
+
+- debug (Default: 0 . Debug information level from 0 to 3)
+
+- killme (Default: 0 . If set to 1, you will forgive your current game.)
+
+- maxdepth (Default: 2 . AI Donkey is a recursive function for computing conbinations.  maxdepth is so the recursive depth of combinations.)
+
+- maxaitime ( Default : 25 . In Lords of guilds, during a fight/game you only have 30 seconds beetween each actions, so AI process is stopped over "maxaitime" seconds of processing.
+
+
+
+
 # How to get your API key
 
 # Two APIs ?
