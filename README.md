@@ -17,3 +17,14 @@ The game API is used to managed your account, decks, cards, player, etc ... This
 Well, excepting user creation ;) Right now, to create a user/account you need a android or apple device which will give you an API key : Go here for more explanations https://github.com/tcainne/Next-big-AI-challenge-contest/blob/master/README.md#how-to-get-your-api-key
 
 # The fight API
+
+For performance issues, "Fights" are handled by in-memory daemons on backend servers.
+
+After creating a fight/game with the game API, you will have to connect to a TCP-socket. Ip,port and password are provided trough the game API. 
+
+So this API is not a true Rest one. In fact, it is more a list of "commands", than a standard API.
+
+Here is the documentation : 
+
+I choose Postman too to publish it to the world, but forget "GET" and other API stuffs.
+
