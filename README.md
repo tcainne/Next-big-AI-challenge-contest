@@ -3,12 +3,14 @@ All you need to know to participate and win !
 
 # Why this contest ?
 
-#Try it with a ready to use PHP script
+# Try it with a ready to use PHP script
 
-#How to get your API key
+# How to get your API key
 
-#Two APIs ?
+# Two APIs ?
 
-#The game API
+# The game API
+Game API documentation is available here : https://documenter.getpostman.com/view/5715617/RzfmE6b9
 
-#fight API
+
+# fight API
