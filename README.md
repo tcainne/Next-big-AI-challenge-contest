@@ -5,6 +5,8 @@ All you need to know to participate and win !
 
 # Try it with a ready to use PHP script
 
+This script is not oriented-object for simplicity reasons.
+
 You need a command line PHP binaries 
 
 Download Runner.php and DonkeyAI.php here :
