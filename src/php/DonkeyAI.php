@@ -1,4 +1,5 @@
-<?
+<?php
+
 function AIprocess($init,$data,$path=array(),$depth=0,$startime=0){
 	global $fp;
 	global $players;

@@ -1,4 +1,5 @@
 <?php
+
 $apipath='http://api.lordsofguilds.com:8081/V1';
 $apikey='XXXXXXXXXXX'; // Put your API Key here
 $apirelease='1.0.1'; // don'touch. Api release compliancy. 
