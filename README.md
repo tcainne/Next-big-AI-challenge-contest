@@ -40,6 +40,15 @@ Options list :
 
 
 # How to get your API key
+Install the Lords of rings app on you device : http://www.lordsofguilds.com/
+
+Create a player.
+
+Follow tuto.
+
+Your API key is here (Left top corner of the mains creen) ->
+
+
 
 # Two APIs ?
 
